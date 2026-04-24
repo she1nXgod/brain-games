@@ -19,7 +19,7 @@ Each game follows the same pattern:
 
 ```
 git clone https://github.com/she1nXgod/frontend-project-44.git
-cd frontend-project-44
+cd brain-games
 make install
 npm link
 ```
